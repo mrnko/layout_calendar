@@ -47,4 +47,4 @@ reflects in changing calendar layout
 - [ ] All `Typical Mistakes` from `BEM` lesson theory are checked.
 - [ ] Code follows all the [Code Style Rules ❗️](https://mate-academy.github.io/layout_task-guideline/html-css-code-style-rules)
 
-test
+test2
